@@ -11,7 +11,8 @@
 <a href="">
     <img align="left" alt="Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg"/>
 </a><br/>
-### I'm a professional Software Engineer specialising in Android
+
+# I'm a professional Software Engineer specialising in Android
 
 ### Languages and Tools
  <img align="left" alt="Java" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/java.svg"/>
