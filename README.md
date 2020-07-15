@@ -10,7 +10,7 @@
 
 <a href="">
     <img align="left" alt="Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg"/>
-</a>
+</a><br/>
 ### I'm a professional Software Engineer specialising in Android
 
 ### Languages and Tools
@@ -42,4 +42,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+✔ Updated README
 -->
