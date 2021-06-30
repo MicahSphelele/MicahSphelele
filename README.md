@@ -31,7 +31,10 @@
  <img align="left" alt="MySQL" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/mysql.svg"/></br/>
  
  ### My GiHub Stats ✔
- [![Github Stats By Anurag](https://github-readme-stats.vercel.app/api?username=MicahSphelele&show_icons=true&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)
+ [![Github Stats By Sphelele](https://github-readme-stats.vercel.app/api?username=MicahSphelele&show_icons=true&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)
+ 
+ [![Sphelele's GitHub stats](https://github-readme-stats.vercel.app/api?username=MicahSphelele)](https://github.com/anuraghazra/github-readme-stats)
+
  
 
 <!--
