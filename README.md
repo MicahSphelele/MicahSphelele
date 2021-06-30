@@ -33,9 +33,7 @@
  ### My GiHub Stats ✔
  [![Github Stats By Sphelele](https://github-readme-stats.vercel.app/api?username=MicahSphelele&show_icons=true&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)
  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MicahSphelele)](https://github.com/anuraghazra/github-readme-stats)
-
- 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MicahSphelele&show_icons=true&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **MicahSphelele/MicahSphelele** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
