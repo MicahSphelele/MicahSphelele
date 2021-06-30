@@ -33,7 +33,7 @@
  ### My GiHub Stats ✔
  [![Github Stats By Sphelele](https://github-readme-stats.vercel.app/api?username=MicahSphelele&show_icons=true&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)
  
- [![Sphelele's GitHub stats](https://github-readme-stats.vercel.app/api?username=MicahSphelele)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MicahSphelele)](https://github.com/anuraghazra/github-readme-stats)
 
  
 
