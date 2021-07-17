@@ -19,7 +19,7 @@
  <img align="left" alt="Kotlin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/kotlin.svg"/>
  <img align="left" alt="JavaScript" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/javascript.svg"/>
  <img align="left" alt="SQL" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/mysql.svg"/>
- <img align="left" alt="MonogDB" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/mongodb.svg"/>
+ <img align="left" alt="MonogDB" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/mongodb.svg"/><br/>
  
   ### Tools
   <img align="left" alt="AndroidStudio" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/androidstudio.svg"/>
@@ -28,7 +28,7 @@
   <img align="left" alt="NPM" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/npm.svg"/>
   <img align="left" alt="Gradle" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gradle.svg"/>
   <img align="left" alt="Firebase" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/firebase.svg"/>
-  <img align="left" alt="Git" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/git.svg"/>
+  <img align="left" alt="Git" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/git.svg"/><br/>
   
   ### Frameworks 
   <img align="left" alt="Angular" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/angular.svg"/>
