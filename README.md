@@ -13,23 +13,26 @@
 </a><br/>
 
 # I'm a professional Software Engineer specialising in Android
-
-### Languages and Tools
+ 
+ ### Programming Languages
  <img align="left" alt="Java" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/java.svg"/>
  <img align="left" alt="Kotlin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/kotlin.svg"/>
  <img align="left" alt="JavaScript" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/javascript.svg"/>
- <img align="left" alt="Git" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/git.svg"/>
- <img align="left" alt="Firebase" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/firebase.svg"/>
- <img align="left" alt="NodeJS" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/node-dot-js.svg"/>
- <img align="left" alt="Firebase" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/firebase.svg"/>
- <img align="left" alt="NPM" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/npm.svg"/>
+ <img align="left" alt="SQL" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/mysql.svg"/></br/>
  <img align="left" alt="MonogDB" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/mongodb.svg"/>
- <img align="left" alt="Gradle" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gradle.svg"/>
- <img align="left" alt="AndroidStudio" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/androidstudio.svg"/>
- <img align="left" alt="Jira" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/jira.svg"/>
- <img align="left" alt="Angular" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/angular.svg"/>
- <img align="left" alt="MySQL" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/mysql.svg"/></br/>
  
+  ### Tools
+  <img align="left" alt="AndroidStudio" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/androidstudio.svg"/>
+  <img align="left" alt="Jira" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/jira.svg"/>
+  <img align="left" alt="NodeJS" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/node-dot-js.svg"/>'
+  <img align="left" alt="NPM" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/npm.svg"/>
+  <img align="left" alt="Gradle" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gradle.svg"/>
+  <img align="left" alt="Firebase" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/firebase.svg"/>
+  <img align="left" alt="Git" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/git.svg"/>
+  
+  ### Frameworks
+  <img align="left" alt="Angular" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/angular.svg"/>
+  
  ### My GiHub Stats ✔
  [![Github Stats By Sphelele](https://github-readme-stats.vercel.app/api?username=MicahSphelele&show_icons=true&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)
  
