@@ -33,9 +33,10 @@
   ### Frameworks 
   <img align="left" alt="Angular" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/angular.svg"/><br/>
   
- ### My GiHub Stats ✔
+ ### GiHub Stats ✔
  [![Github Stats By Sphelele](https://github-readme-stats.vercel.app/api?username=MicahSphelele&show_icons=true&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)
  
+  ### Top Languages ✔
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MicahSphelele&show_icons=true&theme=vue-dark&hide=php,html,css)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
