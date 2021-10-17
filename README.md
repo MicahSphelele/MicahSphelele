@@ -31,10 +31,12 @@
   <img align="left" alt="NPM" src="https://img.shields.io/badge/Tool-NPM-brightgreen?style=flat-square&logo=npm&logoColor=white"/>
   <img align="left" alt="Gradle" src="https://img.shields.io/badge/Tool-Gradle-brightgreen?style=flat-square&logo=gradle&logoColor=white"/>
   <img align="left" alt="Firebase" src="https://img.shields.io/badge/Tool-Firebase-brightgreen?style=flat-square&logo=firebase&logoColor=yellow"/><br/><br/>
-  <img align="left" alt="Git" src="https://img.shields.io/badge/Tool-Git-brightgreen?style=flat-square&logo=git&logoColor=orange"/>
+  <div>
+   <img align="left" alt="Git" src="https://img.shields.io/badge/Tool-Git-brightgreen?style=flat-square&logo=git&logoColor=orange"/>
   <img align="left" alt="Postman" src="https://img.shields.io/badge/Tool-Postman-brightgreen?style=flat-square&logo=postman&logoColor=orange"/>
-  
-  <img align="left" alt="Slack" src="https://img.shields.io/badge/Tool-Slack-brightgreen?style=flat-square&logo=slack&logoColor=lightblue"/><br/>
+  <img align="left" alt="Slack" src="https://img.shields.io/badge/Tool-Slack-brightgreen?style=flat-square&logo=slack&logoColor=lightblue"/>
+ </div>
+<br/>
 
   ### Frameworks 
   <img align="left" alt="Angular" src="https://img.shields.io/badge/Framework-Angular-brightgreen?style=flat-square&logo=angular&logoColor=red"/><br/>
