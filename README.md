@@ -20,7 +20,7 @@
  <img align="left" alt="JavaScript" src="https://img.shields.io/badge/Language-JavaScript-brightgreen?style=flat-square&logo=javascript&logoColor=yellow"/>
  <img align="left" alt="SQL" src="https://img.shields.io/badge/Language-SQL-brightgreen?style=flat-square&logo=mysql&logoColor=white"/>
  <img align="left" alt="Sqlite" src="https://img.shields.io/badge/Language-Sqlite-brightgreen?style=flat-square&logo=sqlite&logoColor=blue"/>
- <img align="left" alt="MonogDB" src="https://img.shields.io/badge/Language-Mongo%20DB-brightgreen?style=flat-square&logo=mongodb&logoColor=green"/><br/>
+ <img align="left" alt="MonogDB" src="https://img.shields.io/badge/Language-Mongo%20DB-brightgreen?style=flat-square&logo=mongodb&logoColor=green"/><br/><br/>
  
   ### Tools
   <img align="left" alt="AndroidStudio" src="https://img.shields.io/badge/Tool-Android%20Studio-brightgreen?style=flat-square&logo=androidstudio&logoColor=green"/>
