@@ -19,16 +19,16 @@
  <img align="left" alt="Kotlin" src="https://img.shields.io/badge/Language-Kotlin-brightgreen?style=flat-square&logo=kotlin&logoColor=white"/>
  <img align="left" alt="JavaScript" src="https://img.shields.io/badge/Language-JavaScript-brightgreen?style=flat-square&logo=javascript&logoColor=white"/>
  <img align="left" alt="SQL" src="https://img.shields.io/badge/Language-SQL-brightgreen?style=flat-square&logo=mysql&logoColor=white"/>
- <img align="left" alt="MonogDB" src="https://img.shields.io/badge/Language-Mongo%20DB-brightgreen?style=flat-square&logo=mongodb&logoColor=white"/><br/>
+ <img align="left" alt="MonogDB" src="https://img.shields.io/badge/Language-Mongo%20DB-brightgreen?style=flat-square&logo=mongodb&logoColor=green"/><br/>
  
   ### Tools
-  <img align="left" alt="AndroidStudio" src="https://img.shields.io/badge/Tool-Android%20Studio-brightgreen?style=flat-square&logo=androidstudio&logoColor=white"/>
-  <img align="left" alt="Jira" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/jira.svg"/>
-  <img align="left" alt="NodeJS" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/node-dot-js.svg"/>
-  <img align="left" alt="NPM" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/npm.svg"/>
-  <img align="left" alt="Gradle" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gradle.svg"/>
-  <img align="left" alt="Firebase" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/firebase.svg"/>
-  <img align="left" alt="Git" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/git.svg"/><br/>
+  <img align="left" alt="AndroidStudio" src="https://img.shields.io/badge/Tool-Android%20Studio-brightgreen?style=flat-square&logo=androidstudio&logoColor=green"/>
+  <img align="left" alt="Jira" src="https://img.shields.io/badge/Tool-Jira-brightgreen?style=flat-square&logo=jira&logoColor=white"/>
+  <img align="left" alt="NodeJS" src="https://img.shields.io/badge/Tool-NodeJS-brightgreen?style=flat-square&logo=nodedotjs&logoColor=white"/>
+  <img align="left" alt="NPM" src="https://img.shields.io/badge/Tool-NPM-brightgreen?style=flat-square&logo=npm&logoColor=white"/>
+  <img align="left" alt="Gradle" src="https://img.shields.io/badge/Tool-Gradle-brightgreen?style=flat-square&logo=gradle&logoColor=white"/>
+  <img align="left" alt="Firebase" src="https://img.shields.io/badge/Tool-Firebase-brightgreen?style=flat-square&logo=firebase&logoColor=yellow"/>
+  <img align="left" alt="Git" src="https://img.shields.io/badge/Tool-Git-brightgreen?style=flat-square&logo=git&logoColor=orange"/><br/>
 
   ### Frameworks 
   <img align="left" alt="Angular" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/angular.svg"/><br/>
