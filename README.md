@@ -33,7 +33,7 @@
   <img align="left" alt="Git" src="https://img.shields.io/badge/Tool-Git-brightgreen?style=flat-square&logo=git&logoColor=orange"/><br/>
 
   ### Frameworks 
-  <img align="left" alt="Angular" height="40px" src="https://img.shields.io/badge/Framework-Angular-brightgreen?style=flat-square&logo=angular&logoColor=red"/><br/>
+  <img align="left" alt="Angular" src="https://img.shields.io/badge/Framework-Angular-brightgreen?style=flat-square&logo=angular&logoColor=red"/><br/>
   
  ### GiHub Stats ✔
  [![Github Stats By Sphelele](https://github-readme-stats.vercel.app/api?username=MicahSphelele&show_icons=true&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)
