@@ -35,7 +35,7 @@
   
  ### GiHub Stats ✔
  [![Github Stats By Sphelele](https://github-readme-stats.vercel.app/api?username=MicahSphelele&show_icons=true&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)
- <img  src="https://github-readme-streak-stats.herokuapp.com/?user=MicahSphelele&theme=vue-dark" width="48%" align="right">
+ <img  src="https://github-readme-streak-stats.herokuapp.com/?user=MicahSphelele&theme=vue-dark" width="48%">
  
   ### Top Languages ✔
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MicahSphelele&show_icons=true&theme=vue-dark&hide=php,html,css)](https://github.com/anuraghazra/github-readme-stats)
