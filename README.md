@@ -25,6 +25,8 @@
  
   ### Tools
   <img align="left" alt="AndroidStudio" src="https://img.shields.io/badge/Tool-Android%20Studio-brightgreen?style=flat-square&logo=androidstudio&logoColor=green"/>
+  <img align="left" alt="Xcode" src="https://img.shields.io/badge/Tool-Xcode-brightgreen?style=flat-square&logo=xcode&logoColor=blue"/>
+  <img align="left" alt="VScode" src="https://img.shields.io/badge/Tool-VScode-brightgreen?style=flat-square&logo=visualstudiocode&logoColor=blue"/>
   <img align="left" alt="Jira" src="https://img.shields.io/badge/Tool-Jira-brightgreen?style=flat-square&logo=jira&logoColor=white"/>
   <img align="left" alt="NodeJS" src="https://img.shields.io/badge/Tool-NodeJS-brightgreen?style=flat-square&logo=nodedotjs&logoColor=white"/>
   <img align="left" alt="NPM" src="https://img.shields.io/badge/Tool-NPM-brightgreen?style=flat-square&logo=npm&logoColor=white"/>
