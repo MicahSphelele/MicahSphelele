@@ -15,8 +15,8 @@
 # I'm a professional Software Engineer specialising in Android
  
  ### Programming Languages
- <img align="left" alt="Java" src="https://img.shields.io/badge/Language-Java-brightgreen?style=flat-square&logo=java&logoColor=white"/>
- <img align="left" alt="Kotlin" src="https://img.shields.io/badge/Language-Kotlin-brightgreen?style=flat-square&logo=kotlin&logoColor=white"/>
+ <img align="left" alt="Java" src="https://img.shields.io/badge/Language-Java-brightgreen?style=flat-square&logo=java&logoColor=red"/>
+ <img align="left" alt="Kotlin" src="https://img.shields.io/badge/Language-Kotlin-brightgreen?style=flat-square&logo=kotlin&logoColor=purple"/>
  <img align="left" alt="JavaScript" src="https://img.shields.io/badge/Language-JavaScript-brightgreen?style=flat-square&logo=javascript&logoColor=yellow"/>
  <img align="left" alt="SQL" src="https://img.shields.io/badge/Language-SQL-brightgreen?style=flat-square&logo=mysql&logoColor=white"/>
  <img align="left" alt="Sqlite" src="https://img.shields.io/badge/Language-Sqlite-brightgreen?style=flat-square&logo=sqlite&logoColor=blue"/>
