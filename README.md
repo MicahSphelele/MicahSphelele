@@ -16,10 +16,10 @@
  
  ### Programming Languages
  <img align="left" alt="Java" src="https://img.shields.io/badge/Language-Java-brightgreen?style=flat-square&logo=java&logoColor=white"/>
- <img align="left" alt="Kotlin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/kotlin.svg"/>
- <img align="left" alt="JavaScript" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/javascript.svg"/>
- <img align="left" alt="SQL" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/mysql.svg"/>
- <img align="left" alt="MonogDB" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/mongodb.svg"/><br/>
+ <img align="left" alt="Kotlin" src="https://img.shields.io/badge/Language-Kotlin-brightgreen?style=flat-square&logo=kotlin&logoColor=white"/>
+ <img align="left" alt="JavaScript" src="https://img.shields.io/badge/Language-JavaScript-brightgreen?style=flat-square&logo=javascript&logoColor=white"/>
+ <img align="left" alt="SQL" src="https://img.shields.io/badge/Language-SQL-brightgreen?style=flat-square&logo=mysql&logoColor=white"/>
+ <img align="left" alt="MonogDB" src="https://img.shields.io/badge/Language-Mongo%20DB-brightgreen?style=flat-square&logo=mongodb&logoColor=white"/><br/>
  
   ### Tools
   <img align="left" alt="AndroidStudio" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/androidstudio.svg"/>
