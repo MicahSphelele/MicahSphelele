@@ -22,7 +22,7 @@
  <img align="left" alt="MonogDB" src="https://img.shields.io/badge/Language-Mongo%20DB-brightgreen?style=flat-square&logo=mongodb&logoColor=white"/><br/>
  
   ### Tools
-  <img align="left" alt="AndroidStudio" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/androidstudio.svg"/>
+  <img align="left" alt="AndroidStudio" src="https://img.shields.io/badge/Tool-Android%20Studio-brightgreen?style=flat-square&logo=androidstudio&logoColor=white"/>
   <img align="left" alt="Jira" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/jira.svg"/>
   <img align="left" alt="NodeJS" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/node-dot-js.svg"/>
   <img align="left" alt="NPM" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/npm.svg"/>
