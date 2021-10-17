@@ -17,9 +17,11 @@
  ### Programming Languages
  <img align="left" alt="Java" src="https://img.shields.io/badge/Language-Java-brightgreen?style=flat-square&logo=java&logoColor=white"/>
  <img align="left" alt="Kotlin" src="https://img.shields.io/badge/Language-Kotlin-brightgreen?style=flat-square&logo=kotlin&logoColor=white"/>
- <img align="left" alt="JavaScript" src="https://img.shields.io/badge/Language-JavaScript-brightgreen?style=flat-square&logo=javascript&logoColor=white"/>
+ <img align="left" alt="JavaScript" src="https://img.shields.io/badge/Language-JavaScript-brightgreen?style=flat-square&logo=javascript&logoColor=yellow"/>
  <img align="left" alt="SQL" src="https://img.shields.io/badge/Language-SQL-brightgreen?style=flat-square&logo=mysql&logoColor=white"/>
+ <img align="left" alt="Sqlite" src="https://img.shields.io/badge/Language-Sqlite-brightgreen?style=flat-square&logo=sqlite&logoColor=blue"/>
  <img align="left" alt="MonogDB" src="https://img.shields.io/badge/Language-Mongo%20DB-brightgreen?style=flat-square&logo=mongodb&logoColor=green"/><br/>
+ 
  
   ### Tools
   <img align="left" alt="AndroidStudio" src="https://img.shields.io/badge/Tool-Android%20Studio-brightgreen?style=flat-square&logo=androidstudio&logoColor=green"/>
@@ -31,7 +33,7 @@
   <img align="left" alt="Git" src="https://img.shields.io/badge/Tool-Git-brightgreen?style=flat-square&logo=git&logoColor=orange"/><br/>
 
   ### Frameworks 
-  <img align="left" alt="Angular" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/angular.svg"/><br/>
+  <img align="left" alt="Angular" height="90px" src="https://img.shields.io/badge/Framework-Angular-brightgreen?style=flat-square&logo=angular&logoColor=red"/><br/>
   
  ### GiHub Stats ✔
  [![Github Stats By Sphelele](https://github-readme-stats.vercel.app/api?username=MicahSphelele&show_icons=true&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)
