@@ -30,11 +30,12 @@
   <img align="left" alt="NodeJS" src="https://img.shields.io/badge/Tool-NodeJS-brightgreen?style=flat-square&logo=nodedotjs&logoColor=green"/>
   <img align="left" alt="NPM" src="https://img.shields.io/badge/Tool-NPM-brightgreen?style=flat-square&logo=npm&logoColor=white"/>
   <img align="left" alt="Gradle" src="https://img.shields.io/badge/Tool-Gradle-brightgreen?style=flat-square&logo=gradle&logoColor=white"/>
-  <img align="left" alt="Firebase" src="https://img.shields.io/badge/Tool-Firebase-brightgreen?style=flat-square&logo=firebase&logoColor=yellow"/><br/><br/>
+  <img align="left" alt="Firebase" src="https://img.shields.io/badge/Tool-Firebase-brightgreen?style=flat-square&logo=firebase&logoColor=yellow"/><br/>
   <div>
    <img align="left" alt="Git" src="https://img.shields.io/badge/Tool-Git-brightgreen?style=flat-square&logo=git&logoColor=orange"/>
   <img align="left" alt="Postman" src="https://img.shields.io/badge/Tool-Postman-brightgreen?style=flat-square&logo=postman&logoColor=orange"/>
   <img align="left" alt="Slack" src="https://img.shields.io/badge/Tool-Slack-brightgreen?style=flat-square&logo=slack&logoColor=lightblue"/>
+  <img align="left" alt="Slack" src="https://img.shields.io/badge/Tool-Teams-brightgreen?style=flat-square&logo=microsoftteams&logoColor=lightpurple"/>   
  </div>
 <br/>
 
