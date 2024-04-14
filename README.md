@@ -47,10 +47,6 @@
 <code><img height="40" src="https://www.vectorlogo.zone/logos/gravatar/gravatar-ar21.svg"></code>
  </div>
 <br/>
-
-  ### Frameworks
-  <img align="left" alt="Angular" src="https://img.shields.io/badge/Framework-Angular-brightgreen?style=flat-square&logo=angular&logoColor=red"/><br/>
-  <img align="left" alt="Next.js" src="https://img.shields.io/badge/Next.js-blue"/><br/>
   
  ### GiHub Stats ✔
  [![Github Stats By Sphelele](https://github-readme-stats.vercel.app/api?username=MicahSphelele&show_icons=true&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)
