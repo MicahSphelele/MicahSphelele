@@ -63,12 +63,14 @@
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/gradle/gradle.png"></code>
 <code><img height="40" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg"></code>
 <code><img height="40" src="https://www.vectorlogo.zone/logos/slack/slack-tile.svg"></code>
+<code><img height="40" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg"></code>
 <code><img height="40" src="https://www.vectorlogo.zone/logos/npmjs/npmjs-ar21.svg"></code>
 <code><img height="40" src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg"></code>
 <code><img height="40" src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg"></code>
 <code><img height="40" src="https://www.vectorlogo.zone/logos/discord/discord-ar21.svg"></code>
 <code><img height="40" src="https://www.vectorlogo.zone/logos/apple_xcode/apple_xcode-icon.svg"></code>
-<code><img height="40" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg"></code>
+<code><img height="40" src="https://www.vectorlogo.zone/logos/github/github-tile.svg"></code>
+<code><img height="40" src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg"></code>
  </div>
 <br/>
 
