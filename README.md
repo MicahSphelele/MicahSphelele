@@ -71,6 +71,8 @@
 <code><img height="40" src="https://www.vectorlogo.zone/logos/apple_xcode/apple_xcode-icon.svg"></code>
 <code><img height="40" src="https://www.vectorlogo.zone/logos/github/github-tile.svg"></code>
 <code><img height="40" src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg"></code>
+<code><img height="40" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg"></code>
+
  </div>
 <br/>
 
