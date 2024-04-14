@@ -38,7 +38,7 @@
 <code><img height="40" src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg"></code>
 <code><img height="40" src="https://www.vectorlogo.zone/logos/discord/discord-ar21.svg"></code>
 <code><img height="40" src="https://www.vectorlogo.zone/logos/apple_xcode/apple_xcode-icon.svg"></code>
-<code><img height="40" src="https://www.vectorlogo.zone/logos/github/github-tile.svg"></code>
+<code><img height="40" src="https://www.vectorlogo.zone/logos/github/github-ar21.svg"></code>
 <code><img height="40" src="https://www.vectorlogo.zone/logos/springio/springio-ar21.svg"></code>
 <code><img height="40" src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-ar21.svg"></code>
 <code><img height="40" src="https://www.vectorlogo.zone/logos/atlassian_jira/atlassian_jira-ar21.svg"></code>
