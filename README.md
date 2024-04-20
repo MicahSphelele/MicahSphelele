@@ -7,7 +7,6 @@
     <img align="left" alt="Instagram" width="22px" src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg"/>
 </a>
 
-
 <a href="">
     <img align="left" alt="Gmail" width="22px" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg"/>
 </a><br/>
