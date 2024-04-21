@@ -9,7 +9,8 @@
 
 <a href="">
     <img align="left" alt="Gmail" width="22px" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg"/>
-</a><br/>
+</a>
+<br/>
 
 # Mobile Software Engineer specialising in (Android)
  
