@@ -31,7 +31,7 @@
 <code><img height="40" src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-ar21.svg"></code>
 <code><img height="40" src="https://www.vectorlogo.zone/logos/swift/swift-horizontal.svg"></code>
 <code><img height="40" src="https://www.vectorlogo.zone/logos/gradle/gradle-ar21.svg"></code>
-<code><img height="40" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg"></code>
+<code><img height="40" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-ar21.svg"></code>
 <code><img height="40" src="https://www.vectorlogo.zone/logos/slack/slack-tile.svg"></code>
 <code><img height="40" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg"></code>
 <code><img height="40" src="https://www.vectorlogo.zone/logos/npmjs/npmjs-ar21.svg"></code>
