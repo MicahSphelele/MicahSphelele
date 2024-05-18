@@ -3,6 +3,7 @@
 <a href="https://www.linkedin.com/in/sphelele-ngubane-3b2a84123/">
     <img align="left" alt="Linkedin" width="22px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg"/>
 </a>
+
 <a href="https://www.instagram.com/sphelele_micah_ngubane/">
     <img align="left" alt="Instagram" width="22px" src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg"/>
 </a>
